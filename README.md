@@ -20,7 +20,7 @@ BUS-ically on time is a mobile application developed using Flutter that allows u
 This project is currently in very early development. Features and functionalities are subject to change as development progresses.
 
 ## Reasons for the project
-- **Learning**: The main reason is for my own personal devolpment
+- **Learning**: The main reason is for my own personal development
 - **Convenience**: The official carris app only works in Lisbon and their website is very slow for my old smartphone
 
 ## Getting Started
