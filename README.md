@@ -1,4 +1,4 @@
-# BUS-ically ON TIME
+# BUS-ICALLY ON TIME
 
 ## Overview
 
