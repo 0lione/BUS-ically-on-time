@@ -4,6 +4,8 @@
 
 BUS-ically on time is a mobile application developed using Flutter that allows users to track buses at each stop. The app relies on the Carris public API to provide real-time information about bus schedules and locations.
 
+![Smartphone](https://github.com/0lione/app/assets/101414931/24a4652c-9868-4edf-8b8a-1145c50eda79)
+
 ## Features
 
 - View real-time bus information at each stop.
